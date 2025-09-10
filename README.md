@@ -1,4 +1,4 @@
-# Embedded-Systems-Labs
+# Embedded Systems 
 Labs done in my embedded systems module programming in C with the NXP FRDM-KL28Z Microcontroller.
 
 ---
