@@ -1,8 +1,6 @@
 # Embedded Systems 
 Labs done in my embedded systems module programming in C with the NXP FRDM-KL28Z Microcontroller.
 
----
-
 Each lab has its own directory. The starter code (e.g., headers, drivers, general set up) has been provided by my professors. The logic I have implemented is in the 'main.c' file in the 'src' folder of each lab. In some cases, I made edits/additions to other files, but the primary contributions are in `main.c`.
 
 ---
